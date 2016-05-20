@@ -1,0 +1,12 @@
+git init   : membuat direktori
+ls        : list
+git add . : menambahkan (memasukan ke server)
+git status : cek status (apakah sudah ada proses add, delete dll)
+git commit : menjadikan batas (ketika ada file pergantian mk tidak akan masuk ke server)
+git log : melihat history
+git commit -m "xx" : utk kasi komen 
+touch : bikin file
+git add -A : buat masukin file stage
+git pull : utk mnarik data update server dari rekan yang melakukan proses add maupun editing
+git diff HEAD : cek perbedaan
+git reset HEAD : mengembalikan ke versi file awal 
