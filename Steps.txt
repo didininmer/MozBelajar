@@ -10,3 +10,4 @@ git add -A : buat masukin file stage
 git pull : utk mnarik data update server dari rekan yang melakukan proses add maupun editing
 git diff HEAD : cek perbedaan
 git reset HEAD : mengembalikan ke versi file awal 
+git
